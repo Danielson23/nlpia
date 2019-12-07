@@ -5,9 +5,6 @@
 [![License](https://img.shields.io/pypi/l/nlpia.svg)](https://pypi.python.org/pypi/nlpia/)
 
 # NLPIA
-
-Community-driven code for the book [**N**atural **L**anguage **P**rocessing **i**n **A**ction](http://bit.ly/gh-readme-nlpia-book).
-
 ## Description
 
 A community-developed book about building socially responsible NLP pipelines that give back to the communities they interact with.
